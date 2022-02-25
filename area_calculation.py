@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by: Andrew-Ten-Den
-# Created on: February 24 2020
+# Created on: February 24 2022
 # This program calculates the area and perimeter of a rectangle
 # with dimensions of 5cm x 3cm
 
