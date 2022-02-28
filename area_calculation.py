@@ -11,8 +11,8 @@ def main():
     print("If a rectangle has the dimensions of: ")
     print("5cm by 3cm")
     print("")
-    print("Area is {}cm².".format(3 * 5))
-    print("Perimeter is {}cm.".format((3 + 5) * 2))
+    print("Area is {} cm².".format(3 * 5))
+    print("Perimeter is {} cm.".format((3 + 5) * 2))
     print("")
     print("Problem Solved")
 
